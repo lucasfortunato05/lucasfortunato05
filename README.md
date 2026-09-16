@@ -1,10 +1,8 @@
 ## Bem Vindo(a) ao meu perfil
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-xi-teal-66.vercel.app/api?username=lucasfortunato05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-xi-teal-66.vercel.app/api/top-langs/?username=lucasfortunato05&layout=compact&langs_count=6&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=lucasfortunato05&theme=tokyonight&hide_border=false&locale=en" alt="GitHub Streak"/>
 </div>
-
 <br>
 
 <div align="center">
