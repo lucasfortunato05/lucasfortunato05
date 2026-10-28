@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="680" viewBox="0 0 800 680" role="img" aria-label="Terminal com apresentação do Lucas Fortunato">
+<style>text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:15px}.s{font-size:12px}</style>
+<rect x="0.5" y="0.5" width="799" height="679" rx="12" fill="#1a1b27" stroke="#3b4261"/>
+<path d="M0.5 44 V12.5 a12 12 0 0 1 12 -12 H787.5 a12 12 0 0 1 12 12 V44 Z" fill="#16161e"/>
+<line x1="0.5" y1="44" x2="799.5" y2="44" stroke="#3b4261"/>
+<circle cx="26" cy="22" r="6.5" fill="#ff5f57"/><circle cx="48" cy="22" r="6.5" fill="#febc2e"/><circle cx="70" cy="22" r="6.5" fill="#28c840"/>
+<text x="400.0" y="27" text-anchor="middle" class="s" fill="#565f89">~/lucasfortunato05 — zsh</text>
+<text x="32" y="92" xml:space="preserve"><tspan fill="#7aa2f7" font-weight="700">lucas</tspan><tspan fill="#565f89">@fortunato</tspan><tspan fill="#7dcfff" font-weight="700">:~$ </tspan><tspan fill="#7dcfff">whoami</tspan><tspan fill="#c0caf5"> --verbose</tspan></text>
+<text x="32" y="119" xml:space="preserve"><tspan fill="#c0caf5" font-weight="700">Lucas Fortunato</tspan><tspan fill="#565f89"> (lucasfortunato05)</tspan><tspan fill="#565f89"> — </tspan><tspan fill="#7aa2f7">dev de automação</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">estudante</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">home office</tspan></text>
+<text x="32" y="146" xml:space="preserve"><tspan fill="#7dcfff">foco:</tspan><tspan fill="#c0caf5"> sistemas web e automação para contabilidade</tspan></text>
+<text x="32" y="189.2" xml:space="preserve"><tspan fill="#7aa2f7" font-weight="700">lucas</tspan><tspan fill="#565f89">@fortunato</tspan><tspan fill="#7dcfff" font-weight="700">:~$ </tspan><tspan fill="#7dcfff">cat</tspan><tspan fill="#c0caf5"> agora.md</tspan></text>
+<text x="32" y="216.2" xml:space="preserve"><tspan fill="#7aa2f7" font-weight="700">## no momento</tspan></text>
+<text x="50" y="243.2" xml:space="preserve"><tspan fill="#565f89">- </tspan><tspan fill="#c0caf5">automatizando o trabalho repetitivo de um escritório contábil</tspan></text>
+<text x="50" y="270.2" xml:space="preserve"><tspan fill="#565f89">- </tspan><tspan fill="#c0caf5">construindo sites com a ForzaTech</tspan></text>
+<text x="50" y="297.2" xml:space="preserve"><tspan fill="#565f89">- </tspan><tspan fill="#c0caf5">estudando pra virar fullstack de verdade</tspan></text>
+<text x="50" y="324.2" xml:space="preserve"><tspan fill="#565f89">- </tspan><tspan fill="#c0caf5">faculdade + estágio, um commit por vez</tspan></text>
+<text x="32" y="367.4" xml:space="preserve"><tspan fill="#7aa2f7" font-weight="700">lucas</tspan><tspan fill="#565f89">@fortunato</tspan><tspan fill="#7dcfff" font-weight="700">:~$ </tspan><tspan fill="#7dcfff">stack</tspan><tspan fill="#c0caf5"> --list</tspan></text>
+<text x="50" y="394.4" xml:space="preserve"><tspan fill="#7aa2f7">lang</tspan></text>
+<text x="140" y="394.4" xml:space="preserve"><tspan fill="#c0caf5">javascript</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">typescript</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">python</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">sql</tspan></text>
+<text x="50" y="421.4" xml:space="preserve"><tspan fill="#7aa2f7">web</tspan></text>
+<text x="140" y="421.4" xml:space="preserve"><tspan fill="#c0caf5">node.js</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">express</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">react</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">astro</tspan></text>
+<text x="50" y="448.4" xml:space="preserve"><tspan fill="#7aa2f7">db</tspan></text>
+<text x="140" y="448.4" xml:space="preserve"><tspan fill="#c0caf5">postgresql</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">supabase</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">sqlite</tspan></text>
+<text x="50" y="475.4" xml:space="preserve"><tspan fill="#7aa2f7">deploy</tspan></text>
+<text x="140" y="475.4" xml:space="preserve"><tspan fill="#c0caf5">railway</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">cloudflare</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">vercel</tspan></text>
+<text x="50" y="502.4" xml:space="preserve"><tspan fill="#7aa2f7">tools</tspan></text>
+<text x="140" y="502.4" xml:space="preserve"><tspan fill="#c0caf5">git</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">playwright</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">claude code</tspan></text>
+<text x="32" y="545.6" xml:space="preserve"><tspan fill="#7aa2f7" font-weight="700">lucas</tspan><tspan fill="#565f89">@fortunato</tspan><tspan fill="#7dcfff" font-weight="700">:~$ </tspan><tspan fill="#7dcfff">grep</tspan><tspan fill="#c0caf5"> -i fora-do-codigo gosta.txt</tspan></text>
+<text x="32" y="572.6" xml:space="preserve"><tspan fill="#c0caf5">carros</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">jiu-jitsu</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#c0caf5">academia</tspan></text>
+<text x="32" y="615.8" xml:space="preserve"><tspan fill="#7aa2f7" font-weight="700">lucas</tspan><tspan fill="#565f89">@fortunato</tspan><tspan fill="#7dcfff" font-weight="700">:~$ </tspan><tspan fill="#7aa2f7">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+<line x1="0.5" y1="644" x2="799.5" y2="644" stroke="#3b4261"/>
+<text x="24" y="667" class="s" fill="#565f89">UTF-8 · zsh · main</text>
+<text x="776" y="667" class="s" text-anchor="end" fill="#565f89">UTC-03:00 · Brasil</text>
+</svg>
